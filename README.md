@@ -67,4 +67,6 @@ width="21px" />
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div align=center>
+  <img src="https://raw.githubusercontent.com/arthurteixeiradev/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
