@@ -58,12 +58,13 @@ width="21px"/>
 <img align="left" title="Figma" alt="Figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 width="21px" />
 
-<br clear="both">
+<br>
+<br>
 
-<p align="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurteixeiradev&show_icons=true&theme=dark#gh-dark-mode-only" alt="Arthur's GitHub stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurteixeiradev&layout=compact&theme=dark#gh-dark-mode-only" alt="Arthur's Top Languages" />
-</p>
+</div>
 
 <br clear="both">
 
