@@ -1,6 +1,8 @@
 ## Hi there, I’m Arthur Teixeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-teixeira-451768215/)](https://www.linkedin.com/in/arthur-teixeira-451768215/)
+<a href="https://www.linkedin.com/in/arthur-teixeira-451768215/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25px" alt="LinkedIn" />
+</a>
 
 
 My name is Arthur Teixeira. I'm currently studying Computer Science, I'm 20 years old, and I live in Brazil.
