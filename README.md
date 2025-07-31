@@ -55,7 +55,7 @@ width="21px" />
 <img align="left" title="ESLint" alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg"
 width="21px" />
 
-<a title="Prettier"><img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" title="Javascript" alt="Prettier" width="21px"><a>
+<a title="Prettier"><img align="left" src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" title="Prettier" alt="Prettier" width="21px"><a>
 
 <img align="left" title="Biome" alt="Biome" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-original.svg"
 width="21px" />
