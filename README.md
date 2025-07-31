@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/arthur-teixeira-451768215/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25px" alt="LinkedIn" />
+  LinkedIn
 </a>
 
 
