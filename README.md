@@ -58,7 +58,7 @@ width="25px"/>
 <img align="left" title="Figma" alt="Figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 width="25px" />
 
-### Stats
+## Stats
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthurteixeiradev&show_icons=true&theme=dark#gh-dark-mode-only)
 
