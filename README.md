@@ -62,8 +62,8 @@ width="21px" />
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurteixeiradev&show_icons=true&theme=dark#gh-dark-mode-only" alt="Arthur's GitHub stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurteixeiradev&layout=compact&theme=dark#gh-dark-mode-only" alt="Arthur's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurteixeiradev&show_icons=true&theme=dark#gh-dark-mode-only" alt="Arthur's GitHub stats" />
 </div>
 
 <br clear="both">
