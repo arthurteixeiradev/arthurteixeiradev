@@ -5,7 +5,9 @@
 
 My name is Arthur Teixeira. I'm currently studying Computer Science, I'm 20 years old, and I live in Brazil.
 
-Frontend Developer passionate about technology, innovation, and creating dynamic and scalable interfaces. With over 1 year of experience, I specialize in React.js, Next.js, and Tailwind CSS, building high-performance and intuitive applications. I have expertise in ShadCN, TypeScript, and UX/UI, combining clean code and best design practices to create impactful experiences. Always seeking new challenges, I apply my knowledge to practical projects that transform ideas into efficient solutions
+Frontend Developer passionate about technology, innovation, and creating dynamic and scalable interfaces. With over 1 year of experience, I specialize in React.js, Next.js, and Tailwind CSS, building high-performance and intuitive applications. I have expertise in ShadCN, TypeScript, and UX/UI, combining clean code and best design practices to create impactful experiences.
+
+Always seeking new challenges, I apply my knowledge to practical projects that transform ideas into efficient solutions
 
 
 ## Languages and Tools 🚀
