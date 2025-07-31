@@ -60,6 +60,6 @@ width="25px" />
 
 ### Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthurteixeiradev&show_icons=true&theme=dark#gh-dark-mode-only)]
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthurteixeiradev&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurteixeiradev&layout=compact)
