@@ -31,6 +31,8 @@ width="21px" />
 <img align="left" title="NextJS" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 width="21px" />
 
+<img align="left" title="shadcn/ui" src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="21px"/>
+
 <img align="left" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 width="21px" />
 
