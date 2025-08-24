@@ -48,7 +48,8 @@ width="21px" />
 <img align="left" title="NodeJS" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 width="21px" />
 
-<img align="left" title="SQL Server" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />         
+<img align="left" title="SQL Server" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+width="21px" />         
 
 <img align="left" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 width="21px" />
