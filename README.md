@@ -1,5 +1,6 @@
 ## Hi there, I’m Arthur Teixeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://arthurteixeira.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-teixeira-451768215/)
 
 
