@@ -34,6 +34,8 @@ width="21px" />
 
 <img align="left" title="shadcn/ui" src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="21px"/>
 
+<img align="left" title="Hygraph" src="https://github.com/hygraph.png" alt="Hygraph" width="21px"/>
+
 <img align="left" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 width="21px" />
 
