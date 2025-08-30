@@ -12,28 +12,72 @@ Always seeking new challenges, I apply my knowledge to practical projects that t
 ## Languages and Tools 🚀
 
 <p align="left">
-  <img title="Javascript" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25px" />
-  &ensp;&ensp;<img title="Typescript" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25px" />
-  &ensp;&ensp;<img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25px" />
-  &ensp;&ensp;<img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25px" />
-  &ensp;&ensp;<img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25px" />
-  &ensp;&ensp;<img title="Zustand" alt="Zustand" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="25px" />
-  &ensp;&ensp;<img title="NextJS" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="25px" />
-  &ensp;&ensp;<img title="shadcn/ui" src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="25px"/>
-  &ensp;&ensp;<img title="Hygraph" src="https://github.com/hygraph.png" alt="Hygraph" width="25px"/>
-  &ensp;&ensp;<img title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="25px" />
-  &ensp;&ensp;<img title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25px" />
-  &ensp;&ensp;<img title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25px" />
-  &ensp;&ensp;<img title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="25px" />
-  &ensp;&ensp;<img title="NodeJS" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="25px" />
-  &ensp;&ensp;<img title="SQL Server" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25px" />
-  &ensp;&ensp;<img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25px" />
-  &ensp;&ensp;<img title="NPM" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="25px" />
-  &ensp;&ensp;<img title="ESLint" alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="25px" />
-  &ensp;&ensp;<img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" title="Prettier" alt="Prettier" width="25px" />
-  &ensp;&ensp;<img title="Biome" alt="Biome" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-original.svg" width="25px" />
-  &ensp;&ensp;<img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25px"/>
-  &ensp;&ensp;<img title="Figma" alt="Figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25px" />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img title="Javascript" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img title="Typescript" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+    <img title="Zustand" alt="Zustand" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img title="NextJS" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img title="shadcn/ui" src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="25px" height="25px"/>
+  </a>
+  <a href="https://hygraph.com/" target="_blank">
+    <img title="Hygraph" src="https://github.com/hygraph.png" alt="Hygraph" width="25px" height="25px"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img title="NodeJS" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank">
+    <img title="SQL Server" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img title="NPM" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://eslint.org/" target="_blank">
+    <img title="ESLint" alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://prettier.io/" target="_blank">
+    <img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" title="Prettier" alt="Prettier" width="25px" height="25px" />
+  </a>
+  <a href="https://biomejs.dev/" target="_blank">
+    <img title="Biome" alt="Biome" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-original.svg" width="25px" height="25px" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25px" height="25px"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img title="Figma" alt="Figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25px" height="25px" />
+  </a>
 </p>
 
 <br>
