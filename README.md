@@ -13,6 +13,10 @@ Always seeking new challenges, I apply my knowledge to practical projects that t
 
 ## Languages and Tools 🚀
 
+<div>
+
+  
+</div>
 <img align="left" title="Javascript" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="21px" />
 
 <img align="left" title="Typescript" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="21px" />
