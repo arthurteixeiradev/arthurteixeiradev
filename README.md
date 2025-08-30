@@ -37,7 +37,6 @@ Always seeking new challenges, I apply my knowledge to practical projects that t
 </p>
 
 <br>
-<br>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurteixeiradev&layout=compact&theme=dark#gh-dark-mode-only" alt="Arthur's Top Languages" />
