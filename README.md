@@ -20,6 +20,8 @@ Always seeking new challenges, I apply my knowledge to practical projects that t
   <img title="Zustand" alt="Zustand" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="25" height="25" />
   <img title="NextJS" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="25" height="25" />
   <img title="shadcn/ui" src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="25" height="25" />
+  <img title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" alt="React Native" width="25" height="25" />
+  <img title="Expo" src="https://github.com/expo.png" alt="Expo" width="25" height="25" />
   <img title="Hygraph" src="https://github.com/hygraph.png" alt="Hygraph" width="25" height="25" />
   <img title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="25" height="25" />
   <img title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" height="25" />
