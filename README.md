@@ -19,6 +19,7 @@ Always seeking new challenges, I apply my knowledge to practical projects that t
   <img title="NodeJS" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="25" height="25" />
   <img title="Express" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="25" height="25" />
   <img title="SQL Server" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25" height="25" />
+  <img title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="25" height="25" />
   <img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25" height="25" />
   <img title="Zustand" alt="Zustand" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="25" height="25" />
   <img title="NextJS" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="25" height="25" />
