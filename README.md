@@ -3,9 +3,13 @@
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://arthurteixeira.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-teixeira-451768215/)
 
-My name is Arthur Teixeira. I'm currently studying Computer Science, I'm 20 years old, and I live in Brazil.
+My name is Arthur Teixeira. I'm currently studying Computer Science, I'm 21 years old, and I live in Brazil.
 
-Frontend Developer passionate about technology, innovation, and creating dynamic and scalable interfaces. With over 1 year of experience, I specialize in React.js, Next.js, and Tailwind CSS, building high-performance and intuitive applications. I have expertise in ShadCN, TypeScript, and UX/UI, combining clean code and best design practices to create impactful experiences.
+Fullstack Developer with hands-on experience developing end-to-end solutions. I work with React.js, Next.js, and Tailwind CSS on the frontend, creating modern and responsive interfaces.
+
+On the backend, I use Node.js and Express to build RESTful APIs, handle authentication, and design scalable services. I also have experience with SQL Server, Redis, and Docker.
+
+I use TypeScript across the stack and follow best practices to deliver clean, maintainable, and high-performance applications.
 
 Always seeking new challenges, I apply my knowledge to practical projects that transform ideas into efficient solutions.
 
