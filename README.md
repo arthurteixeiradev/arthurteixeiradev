@@ -16,33 +16,37 @@ Always seeking new challenges, I apply my knowledge to practical projects that t
 ## Languages and Tools 🚀
 
 <p align="left">
-  <img title="Javascript" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" height="25" />
-  <img title="Typescript" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25" height="25" />
-  <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" />
-  <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" height="25" />
-  <img title="NodeJS" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="25" height="25" />
-  <img title="Express" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="25" height="25" />
-  <img title="SQL Server" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25" height="25" />
-  <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="25" height="25" />
-  <img title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="25" height="25" />
-  <img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25" height="25" />
-  <img title="Zustand" alt="Zustand" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="25" height="25" />
-  <img title="NextJS" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="25" height="25" />
-  <img title="shadcn/ui" src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="25" height="25" />
-  <img title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" alt="React Native" width="25" height="25" />
-  <img title="Expo" src="https://github.com/expo.png" alt="Expo" width="25" height="25" />
-  <img title="Hygraph" src="https://github.com/hygraph.png" alt="Hygraph" width="25" height="25" />
-  <img title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="25" height="25" />
-  <img title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" height="25" />
-  <img title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" height="25" />
-  <img title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="25" height="25" />
-  <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" height="25" />
-  <img title="NPM" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="25" height="25" />
-  <img title="ESLint" alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="25" height="25" />
-  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" title="Prettier" alt="Prettier" width="25" height="25" />
-  <img title="Biome" alt="Biome" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-original.svg" width="25" height="25" />
-  <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25" height="25" />
-  <img title="Figma" alt="Figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25" height="25" />
+<nobr>
+  <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" />
+  <img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25" />
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" />
+  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" />
+  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="25" />
+  <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="25" />
+  <img title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="25" />
+  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="25" />
+  <img title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25" />
+  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="25" />
+  <img title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="25" />
+  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25" />
+  <img title="Zustand" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="25" />
+  <img title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="25" />
+  <img title="shadcn/ui" src="https://ui.shadcn.com/favicon.ico" width="25" />
+  <img title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="25" />
+  <img title="Expo" src="https://github.com/expo.png" width="25" />
+  <img title="Hygraph" src="https://github.com/hygraph.png" width="25" />
+  <img title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="25" />
+  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" />
+  <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" />
+  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="25" />
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" />
+  <img title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="25" />
+  <img title="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="25" />
+  <img title="Prettier" src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" width="25" />
+  <img title="Biome" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-original.svg" width="25" />
+  <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25" />
+  <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25" />
+</nobr>
 </p>
 
 <br>
