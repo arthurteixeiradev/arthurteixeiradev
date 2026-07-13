@@ -52,8 +52,8 @@ Always seeking new challenges, I apply my knowledge to practical projects that t
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=arthurteixeiradev&show_icons=true&theme=dark&layout=compact" />
-  <img align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api?username=arthurteixeiradev&show_icons=true&theme=dark#gh-dark-mode-only" alt="Arthur's GitHub stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurteixeiradev&show_icons=true&theme=dark&layout=compact" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=arthurteixeiradev&show_icons=true&theme=dark#gh-dark-mode-only" alt="Arthur's GitHub stats" />
 </div>
 
 <br clear="both">
